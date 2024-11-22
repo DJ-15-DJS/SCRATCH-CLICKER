@@ -1,0 +1,41 @@
+𝗖𝗢𝗠𝗢 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗥 𝗢 𝗦𝗖𝗥𝗔𝗧𝗖𝗛 𝗖𝗟𝗜𝗖𝗞𝗘𝗥 𝗩.𝟮
+------------------------------------------------------------------------------------------------------------------------------
+
+1. APERTE NA PASTA 𝗝𝗢𝗚𝗢 E BAIXE O 𝗦𝗖𝗥𝗔𝗧𝗖𝗛 𝗖𝗟𝗜𝗖𝗞𝗘𝗥 𝗩.𝟮.𝗵𝘁𝗺𝗹
+------------------------------------------------------------------------------------------------
+
+2. ABRA O 𝗦𝗖𝗥𝗔𝗧𝗖𝗛 𝗖𝗟𝗜𝗖𝗞𝗘𝗥 𝗩.𝟮.𝗵𝘁𝗺𝗹
+------------------------------------------------------------------------------------------------
+
+3. NO APP VAI APARECER UMA TELA DE LOGIN E TEM 2 BOTÕES DE OPÇÃO DE LOGIN, CRIAR UMA CONTA OU
+   FAZER UPLOAD DE UM ARQUIVO APPDATA PARA FAZER LOGIN, E SE VOCÊ FAZER UPLOAD DE UM ARQUIVO
+   CORROMPIDO OU O CODIGO DE ORIGEM NÃO SER O DO PROGRAMA O BOTÃO VAI DIZER QUE O ARQUIVO ESTÁ
+   CORROMPIDO OU O MEU OC VAI APARECER COM CARA DE BRAVO DIZENDO QUE UM ERRO FOI REPORTADO E
+   ACABA APARECENDO OS BOTÕES E NÃO APERTE NELES ATÉ QUE VOCÊ ESTEJA NA TELA DO JOGO, E 
+   QUANDO CONSEGUIR FAZER LOGIN O APP VAI ABRIR A TELA DO JOGO.
+   E QUANDO CRIAR UMA NOVA CONTA VOCÊ TEM QUE COLOCAR UM NOME DE USUARIO E UMA SENHA
+-----------------------------------------------------------------------------------------------
+
+4. QUANDO ABRIR A TELA DO JOGO VOCÊ JÁ PODE APERTAR NOS BOTÕES, O BOTÃO VERMELHO SERVE PARA
+   BAIXAR OS SEUS DADOS EM ARQUIVO PARA NÃO PERDER E LIMPAR O CACHE DO JOGO, O BOTÃO AZUL SERVE
+   PARA ZERAR O TOTAL DE CLIQUES, O BOTÃO VERDE SERVE PARA BAIXAR OS SEUS DADOS EM ARQUIVO E
+   O GATO ESTÁ NO JOGO PARA VOCÊ DAR CLIQUES
+-----------------------------------------------------------------------------------------------
+
+5. TEM AS VARIAVEIS E A VARIAVEL COM O TEXTO DO LADO 😺 É O TOTAL DE CLIQUES E A VARIAVEL COM
+   O TEXTO 🏆😺 É O SEU RECORDE MUNDIAL DE CLIQUES
+-----------------------------------------------------------------------------------------------
+
+6. SE DIVIRTA JOGANDO O MEU JOGO
+-----------------------------------------------------------------------------------------------
+
+FIM.
+
+ME SIGA NO SCRATCH E NO GITHUB
+
+
+
+
+
+
+CODIFICAÇÃO:UTF-8
